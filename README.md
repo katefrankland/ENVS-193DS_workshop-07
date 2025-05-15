@@ -6,7 +6,7 @@ All READMEs for this class should have the following sections:
 
 ## General information
 
-What is this repo for?
+What is this repo for? This repo is for testing forking and practicing committing and pushing. it also has code for running linera models. 
 
 Whose repo is it? Who is contributing to it?
 
